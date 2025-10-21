@@ -14,9 +14,9 @@
 </div>                                    
 -  I’m currently working on **42-cursus**
  I’m currently learning C, C++ and more...
+f
 
-
-📫 How to reach me youssef13lagzouli37@gmail.com
+📫 How to reach me youssef9lagzouli001@gmail.com
 <h3 align="center">Connect with me:</h3>
 <div align="center" >
 <a href="linkedin.com/in/mohammed-radouani-49b226339" target="blank" align="center"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mohammed-radouani-49b226339" height="30" width="40" /></a>
