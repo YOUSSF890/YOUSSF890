@@ -32,9 +32,9 @@ f
 </div>
 <hr>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=radouani-md&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&card_width=800" alt="radouni-md"  /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=radouani-md&show_icons=true&locale=en&theme=dark&hide_border=true&card_width=800" alt="radouni-md"  /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lagzouli-yl&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&card_width=800" alt="lagzouli-yl"  /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=lagzouli-yl&show_icons=true&locale=en&theme=dark&hide_border=true&card_width=800" alt="lagzouli-yl"  /> <br>
 </div>
 
-<div> <img src="https://komarev.com/ghpvc/?username=radouni-md&label=Profile%20views&color=0e75b6&style=flat" alt="ylagzoul" /> </div>
+<div> <img src="https://komarev.com/ghpvc/?username=ylagzoul's&label=Profile%20views&color=0e75b6&style=flat" alt="ylagzoul" /> </div>
 <hr>
