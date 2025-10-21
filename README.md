@@ -19,7 +19,7 @@ f
 📫 How to reach me youssef9lagzouli001@gmail.com
 <h3 align="center">Connect with me:</h3>
 <div align="center" >
-<a href="linkedin.com/in/youssef-lagzouli-a73460327" target="blank" align="center"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/youssef-lagzouli-a73460327" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/youssef-lagzouli-a73460327/" target="blank" align="center"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/youssef-lagzouli-a73460327/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/youssef_lagzouli02" target="blank"  ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="medd_3o22" height="30" width="40" /></a>
 <a href="/" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jsnow0752" height="30" width="40" /></a>
 </div>
